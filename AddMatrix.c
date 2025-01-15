@@ -12,6 +12,7 @@ void main(){
             scanf("%d",&a[i][j]);
         }
     }
+    
     printf("Enter the value to matrix b");
          for(i=0;i<m;i++){
         for (j=0;j<n;j++){
