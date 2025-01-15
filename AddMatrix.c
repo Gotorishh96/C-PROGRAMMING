@@ -33,4 +33,5 @@ void main(){
             printf("%d",c[i][j]);
         }
     }
+    
 }
