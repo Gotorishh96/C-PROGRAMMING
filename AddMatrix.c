@@ -26,6 +26,7 @@ void main(){
            c[i][j] = a[i][j] + b[i][j];
         }
     }
+    
      printf("The resultant matrix is ");
          for(i=0;i<m;i++){
         for (j=0;j<n;j++){
