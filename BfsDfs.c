@@ -1,4 +1,4 @@
-//Breadth fast search as well as depth fast search
+//Breadth fast search as well as Depth fast search
 
 #include<stdio.h>
 int q[20],top=-1,front=-1,rear=-1,a[20][20],vis[20],stack[20];
