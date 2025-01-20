@@ -13,8 +13,8 @@ void bubblesort (int array[],int size)
             temp=array[i];
             array[i]=array[i+1];
             array[i+1]=temp;
+         }
        }
-    }
     }
 }
 void print(int array[],int size)
