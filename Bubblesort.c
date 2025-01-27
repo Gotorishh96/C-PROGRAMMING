@@ -1,7 +1,7 @@
  //Bubble Sort
 #include<stdio.h>
 void bubblesort (int array[],int size)
-{
+  {
     int i,step;
     for(step=0; step<size-1;++step)
     {
